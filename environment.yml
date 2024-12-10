@@ -1,0 +1,11 @@
+name: apex_vs_base
+channels:
+  - conda-forge
+dependencies:
+  - pip
+  - python
+  - jupyterlab
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
