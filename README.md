@@ -19,3 +19,11 @@ Once it is installed, activate it and run jupyter lab to open the notebook and r
 conda activate apex_vs_base
 jupyter lab
 ```
+
+## License
+
+[GNU GPL 3.0](LICENSE)
+
+## Contact
+
+Open an issue in this repository.
